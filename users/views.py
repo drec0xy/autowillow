@@ -59,4 +59,4 @@ class ResetPassword(Resource):
 class testPayload(Resource):
     @staticmethod
     def get() -> Resource:
-        return {"message": "Api payload testfff🔗"}
+        return {"message": "This is th auth module entry🚀🔗"}
